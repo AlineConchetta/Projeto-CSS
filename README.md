@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> SerFrontEnd </h1>
 
 <p align="center">
 Programa exclusivo e pago, promovido pelo curso Webdesign Front-end. <br/>
